@@ -1,1 +1,3 @@
+payload:
+  # > SelfRules
   - DOMAIN-SUFFIX,dler.com
