@@ -1,3 +1,4 @@
 payload:
   # > SelfRules
   - DOMAIN-SUFFIX,dlercloud.com
+  - DOMAIN-SUFFIX,ntt-co-jp.club
