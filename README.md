@@ -1,0 +1,2 @@
+# ClashSelfRule
+这是一个为了方便为了自己使用的clash规则集
